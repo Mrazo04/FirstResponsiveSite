@@ -31,7 +31,40 @@ body{
 /* Bottom section of the grid.  */
 /* Box One */
 
+.title-one{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 #box-one{
+    height: 20pt;
+    width: 50pt;
+    background-color: coral;
+}
+
+/* Box two */
+
+.title-two{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#box-two{
+    height: 20pt;
+    width: 50pt;
+    background-color: coral;
+}
+
+/* Box three */
+
+.title-three{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#box-three{
     height: 20pt;
     width: 50pt;
     background-color: coral;
